@@ -1,0 +1,12 @@
+function calculate(x, y){
+	if(String(x) === "AB"){
+			if (y === "0"){
+				console.log("A, B");
+			}else if (y = "A"){
+				console.log("A, B, AB");
+			}else if (y = "B"){
+				console.log("A, B, AB");
+			}else console.log("A, B, AB");
+	}
+	
+}
