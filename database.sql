@@ -1,7 +1,7 @@
 DROP DATABASE IF EXISTS pigeons;
 CREATE DATABASE pigeons;
 USE pigeons;
-CREATE TABLE users (name VARCHAR(255), pass (VARCHAR), mail VARCHAR(255));
+CREATE TABLE users (name VARCHAR(255), pass VARCHAR (255), mail VARCHAR(255));
 CREATE TABLE galabi (nomer INT, poroda VARCHAR(255), snimka VARCHAR(255));
 
 INSERT INTO users VALUES ("admin", "admin", "admin@abv.bg");

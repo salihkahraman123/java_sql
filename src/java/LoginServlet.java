@@ -1,4 +1,3 @@
-
 import java.io.IOException;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
@@ -14,6 +13,7 @@ public class LoginServlet extends HttpServlet {
             throws ServletException, IOException {
         String user = request.getParameter("user");
         String pass = request.getParameter("pass");
+        
         if (user.equals("Salih")
                 && pass.equals("1234")) {
             response.getWriter().println("Login successful");

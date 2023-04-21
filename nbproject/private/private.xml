@@ -4,7 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/salih/NetBeansProjects/java_sql/web/register.html</file>
-            <file>file:/home/salih/NetBeansProjects/java_sql/src/java/LoginServlet.java</file>
+            <file>file:/home/salih/NetBeansProjects/java_sql/web/login.html</file>
+            <file>file:/home/salih/NetBeansProjects/java_sql/web/bulgarianpigeons.html</file>
+            <file>file:/home/salih/NetBeansProjects/java_sql/web/origin.html</file>
+            <file>file:/home/salih/NetBeansProjects/java_sql/web/index.html</file>
             <file>file:/home/salih/NetBeansProjects/java_sql/src/java/RegisterServlet.java</file>
         </group>
     </open-files>
